@@ -4,7 +4,11 @@ color: #fafafa ;
 }
 
 
-.nav, .socialmedia { display: flex ;}
+.nav, .socialmedia, .skills, .projects { display: flex ; justify-content: space-evenly;} 
 .nav li, .socialmedia li { list-style-type:none ;}
 
 header { display: flex ;}
+
+
+
+    
